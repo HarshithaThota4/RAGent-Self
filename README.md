@@ -8,6 +8,9 @@
 
 **RAGent-Self** is a production-grade Retrieval-Augmented Generation (RAG) system with **Self-Correcting RAG (Self-RAG)** capabilities. It combines FAISS vector search, hybrid retrieval, and a self-critique loop to deliver accurate, citation-backed answers from your documents.
 
+[![Open in Hugging Face](https://img.shields.io/badge/🤗-Open%20in%20Spaces-yellow)](https://huggingface.co/spaces/anon-ymus/RAGent-Harshitha)
+
+
 ## ✨ Key Features
 
 | Feature | Description |
