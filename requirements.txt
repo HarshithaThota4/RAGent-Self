@@ -1,0 +1,7 @@
+groq
+pypdf
+python-dotenv
+gradio
+sentence-transformers
+faiss-cpu
+mcp
