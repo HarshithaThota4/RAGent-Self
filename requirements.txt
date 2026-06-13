@@ -4,4 +4,7 @@ python-dotenv
 gradio
 sentence-transformers
 faiss-cpu
-mcp
+transformers
+torch
+pillow
+pytesseract
